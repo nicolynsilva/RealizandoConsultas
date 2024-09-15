@@ -12,6 +12,10 @@ Utilizar subconsulta com IN;
 Aplicar subconsultas com HAVING.)
 
 -Realizando a Junção dos dados;
+(Conhecer como utilizar o INNER JOIN;
+Aprender a trabalhar com o RIGHT e LEFT JOIN;
+Executar consultas com FULL JOIN.)
+
 -Implementação Views e triggers;
 -Executando Transações.
 
